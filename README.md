@@ -1,0 +1,2 @@
+# Enterprise Clinical Decision Support & Hospital Intelligence Platfrom
+Developed an AI-Powered Clinical Decision Support & Hospital Intelligence Platfrom to help healthcare professional analyze patient data, predict clinical risks, and imporve hospital operations. The platfom includes patient intelligence ,clinical risk prediction ,medication safety , an Al clinical copilot, and hospital analytics. Built using Pyhton , Machine learning, FastAPI, Streamlit, and PostgreSQL to support data-driven clinical decision-making.
