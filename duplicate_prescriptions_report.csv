@@ -1,0 +1,249 @@
+patient_id,medication,duplicate_count,severity,message
+00bcbfc6-c7b9-bd0e-3d95-071f9fba6321,1 ml medroxyprogesterone acetate 150 mg/ml injection,2,Moderate,Same medication appears multiple times for the same patient.
+00bcbfc6-c7b9-bd0e-3d95-071f9fba6321,hydrochlorothiazide 25 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+00bcbfc6-c7b9-bd0e-3d95-071f9fba6321,lisinopril 10 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+00bcbfc6-c7b9-bd0e-3d95-071f9fba6321,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+029c95e2-d252-d8d3-3626-7f347182d6d7,ibuprofen 400 mg oral tablet [ibu],12,High,Same medication appears multiple times for the same patient.
+031ce8e2-1443-01b4-de6b-61a4084a7166,hydrochlorothiazide 25 mg oral tablet,8,High,Same medication appears multiple times for the same patient.
+031ce8e2-1443-01b4-de6b-61a4084a7166,ibuprofen 400 mg oral tablet [ibu],7,High,Same medication appears multiple times for the same patient.
+031ce8e2-1443-01b4-de6b-61a4084a7166,lisinopril 10 mg oral tablet,9,High,Same medication appears multiple times for the same patient.
+031ce8e2-1443-01b4-de6b-61a4084a7166,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+06476266-59b1-ded7-4138-3c7543fd4981,72 hr fentanyl 0.025 mg/hr transdermal system,11,High,Same medication appears multiple times for the same patient.
+06476266-59b1-ded7-4138-3c7543fd4981,acetaminophen 300 mg / codeine phosphate 15 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+06476266-59b1-ded7-4138-3c7543fd4981,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+09c573e2-a45d-aa5e-6a17-3c682155e6e3,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,amlodipine 2.5 mg oral tablet,37,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,cobicistat 150 mg / elvitegravir 150 mg / emtricitabine 200 mg / tenofovir disoproxil fumarate 300 mg oral tablet,30,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,efavirenz 600 mg oral tablet,8,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,emtricitabine 200 mg / tenofovir disoproxil fumarate 300 mg oral tablet,8,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,hydrochlorothiazide 25 mg oral tablet,37,High,Same medication appears multiple times for the same patient.
+0b786670-17af-32e1-b2d2-f77c33874b30,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,alendronic acid 10 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,aspirin 81 mg oral capsule [vazalore],15,High,Same medication appears multiple times for the same patient.
+0f3d04a2-f42e-1429-acef-0becd0a0fcea,sodium fluoride 0.0272 mg/mg oral gel,6,High,Same medication appears multiple times for the same patient.
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,acetaminophen 300 mg / hydrocodone bitartrate 5 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,lisinopril 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,naproxen sodium 220 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+1426480f-ccc7-2393-40bd-f92ccf2b74b2,sodium fluoride 0.0272 mg/mg oral gel,5,High,Same medication appears multiple times for the same patient.
+1be83f06-48ef-7bac-7097-b9e0644aeaf8,budesonide 0.25 mg/ml inhalation suspension,11,High,Same medication appears multiple times for the same patient.
+1be83f06-48ef-7bac-7097-b9e0644aeaf8,nda020983 200 actuat albuterol 0.09 mg/actuat metered dose inhaler [ventolin],11,High,Same medication appears multiple times for the same patient.
+1d63466e-0cfd-eb12-77aa-d153393355e5,simvastatin 10 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+1d63466e-0cfd-eb12-77aa-d153393355e5,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+1dabc422-e007-d5ee-791f-9e08a8fd9b6a,amoxicillin 500 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+1dabc422-e007-d5ee-791f-9e08a8fd9b6a,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+1dabc422-e007-d5ee-791f-9e08a8fd9b6a,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+1e32a1a3-3638-cb8c-7253-ff98a97dc0fe,amoxicillin 250 mg / clavulanate 125 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,24 hr metformin hydrochloride 500 mg extended release oral tablet,23,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,acetaminophen 325 mg oral tablet [tylenol],12,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,dornase alfa 1 mg/ml inhalation solution [pulmozyme],23,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,insulin isophane  human 70 unt/ml / insulin  regular  human 30 unt/ml injectable suspension [humulin],11,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,pancreatin 600 mg oral tablet,23,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,tropicamide 5 mg/ml ophthalmic solution,11,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,vancomycin 50 mg/ml injectable solution,9,High,Same medication appears multiple times for the same patient.
+2211f478-b7b4-7711-16cf-84ffb52b9d2b,{28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+239b0c86-371a-3080-fcd9-8379b296bc9a,1 ml medroxyprogesterone acetate 150 mg/ml injection,2,Moderate,Same medication appears multiple times for the same patient.
+239b0c86-371a-3080-fcd9-8379b296bc9a,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+2e9a9dab-f5b6-8960-d3ce-7834bb5e7344,albuterol 0.83 mg/ml inhalation solution,12,High,Same medication appears multiple times for the same patient.
+2e9a9dab-f5b6-8960-d3ce-7834bb5e7344,budesonide 0.25 mg/ml inhalation suspension,12,High,Same medication appears multiple times for the same patient.
+2e9a9dab-f5b6-8960-d3ce-7834bb5e7344,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler [flovent],11,High,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,acetaminophen 325 mg oral tablet [tylenol],11,High,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,albuterol 0.83 mg/ml inhalation solution,11,High,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,aspirin 81 mg oral capsule [vazalore],6,High,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,lisinopril 10 mg oral tablet,6,High,Same medication appears multiple times for the same patient.
+2fb99851-6f31-04a6-be96-6fef4663e208,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+30889246-5f7d-9305-542f-55cb89e1f4de,carbamazepine 20 mg/ml oral suspension [tegretol],2,Moderate,Same medication appears multiple times for the same patient.
+3099d813-4f5c-fc43-31d8-7bba5dc84bed,acetaminophen 160 mg chewable tablet,2,Moderate,Same medication appears multiple times for the same patient.
+3099d813-4f5c-fc43-31d8-7bba5dc84bed,azithromycin 250 mg oral capsule,2,Moderate,Same medication appears multiple times for the same patient.
+3099d813-4f5c-fc43-31d8-7bba5dc84bed,cefuroxime 250 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+3099d813-4f5c-fc43-31d8-7bba5dc84bed,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+30ed72f3-240e-4973-a0b8-25369e1a9c1e,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+30ed72f3-240e-4973-a0b8-25369e1a9c1e,penicillin v potassium 250 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+31f368d9-3fdc-a15f-ccdc-fafa74a860e9,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+3368f8e7-5e00-7794-1e39-f65cb954d43d,acetaminophen 325 mg oral tablet [tylenol],12,High,Same medication appears multiple times for the same patient.
+3368f8e7-5e00-7794-1e39-f65cb954d43d,amlodipine 2.5 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+3368f8e7-5e00-7794-1e39-f65cb954d43d,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+355a4d50-2628-aa65-c336-deacf4d606fb,insulin isophane  human 70 unt/ml / insulin  regular  human 30 unt/ml injectable suspension [humulin],58,High,Same medication appears multiple times for the same patient.
+355a4d50-2628-aa65-c336-deacf4d606fb,sodium fluoride 0.0272 mg/mg oral gel,7,High,Same medication appears multiple times for the same patient.
+355a4d50-2628-aa65-c336-deacf4d606fb,tropicamide 5 mg/ml ophthalmic solution,10,High,Same medication appears multiple times for the same patient.
+355cd402-8f45-353f-013f-ecb627e85106,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+35f80d0e-eaad-ef68-b762-3a1c12a872c1,lisinopril 10 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+35f80d0e-eaad-ef68-b762-3a1c12a872c1,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe,8,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,1 ml enoxaparin sodium 150 mg/ml prefilled syringe,2,Moderate,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,acetaminophen 500 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,amlodipine 2.5 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,hydrochlorothiazide 25 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,lisinopril 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler,10,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,simvastatin 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+3732fde5-efc6-d57a-517b-0500f2177181,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+37549f60-b5a3-69cd-dea6-5a71c4bc23cf,1 ml medroxyprogesterone acetate 150 mg/ml injection,3,High,Same medication appears multiple times for the same patient.
+37549f60-b5a3-69cd-dea6-5a71c4bc23cf,{7 (ethinyl estradiol 0.035 mg / norgestimate 0.18 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.215 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.25 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [trinessa 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+3935e8a9-9b9f-fd00-fe22-bcb810d0330b,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+3935e8a9-9b9f-fd00-fe22-bcb810d0330b,simvastatin 10 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,amlodipine 2.5 mg oral tablet,7,High,Same medication appears multiple times for the same patient.
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,hydrochlorothiazide 25 mg oral tablet,7,High,Same medication appears multiple times for the same patient.
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,lisinopril 10 mg oral tablet,8,High,Same medication appears multiple times for the same patient.
+3c0e60c4-176e-2c4c-3b85-b46be390cf5e,simvastatin 10 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+3eec36b2-71cc-13c4-489a-495c45318bc3,acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet],12,High,Same medication appears multiple times for the same patient.
+3eec36b2-71cc-13c4-489a-495c45318bc3,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+45f3a7b6-d706-f174-d043-16814aa127ed,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+46fcc34a-97a1-f038-9bb1-4ae87116ae61,acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet],12,High,Same medication appears multiple times for the same patient.
+46fcc34a-97a1-f038-9bb1-4ae87116ae61,levonorgestrel 0.000813 mg/hr intrauterine system [liletta],2,Moderate,Same medication appears multiple times for the same patient.
+46fcc34a-97a1-f038-9bb1-4ae87116ae61,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+4af53267-820e-7687-87a4-f6716ef64a2e,acetaminophen 160 mg chewable tablet,2,Moderate,Same medication appears multiple times for the same patient.
+4af53267-820e-7687-87a4-f6716ef64a2e,amoxicillin 500 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+4af53267-820e-7687-87a4-f6716ef64a2e,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+4af53267-820e-7687-87a4-f6716ef64a2e,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+4be6b5fb-2a19-943a-9249-7068445be4cc,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+4be6b5fb-2a19-943a-9249-7068445be4cc,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+5693c080-f485-91e7-54b9-ad9a8c12af62,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+5693c080-f485-91e7-54b9-ad9a8c12af62,hydrochlorothiazide 25 mg oral tablet,101,High,Same medication appears multiple times for the same patient.
+5693c080-f485-91e7-54b9-ad9a8c12af62,insulin isophane  human 70 unt/ml / insulin  regular  human 30 unt/ml injectable suspension [humulin],99,High,Same medication appears multiple times for the same patient.
+5693c080-f485-91e7-54b9-ad9a8c12af62,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+5780b82b-0419-ffe6-fde4-a2fcce9695f5,acetaminophen 160 mg chewable tablet,2,Moderate,Same medication appears multiple times for the same patient.
+5780b82b-0419-ffe6-fde4-a2fcce9695f5,amoxicillin 500 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+5780b82b-0419-ffe6-fde4-a2fcce9695f5,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+57efda89-b582-bb08-8a2d-e06b2c184bfc,1 ml epoetin alfa 4000 unt/ml injection [epogen],381,High,Same medication appears multiple times for the same patient.
+57efda89-b582-bb08-8a2d-e06b2c184bfc,insulin isophane  human 70 unt/ml / insulin  regular  human 30 unt/ml injectable suspension [humulin],79,High,Same medication appears multiple times for the same patient.
+57efda89-b582-bb08-8a2d-e06b2c184bfc,sodium fluoride 0.0272 mg/mg oral gel,18,High,Same medication appears multiple times for the same patient.
+6095681c-dfc1-8f20-411c-42cef37189fa,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,alendronic acid 10 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,lisinopril 10 mg oral tablet,12,High,Same medication appears multiple times for the same patient.
+65cbad6a-eb9d-420e-9bab-b4f9c6aab7db,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+6d04a400-ad21-5951-b092-c14b6358d4c5,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+7132442e-b0b9-a886-e28d-f83700e5a3bd,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+7132442e-b0b9-a886-e28d-f83700e5a3bd,hydrochlorothiazide 25 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+7132442e-b0b9-a886-e28d-f83700e5a3bd,lisinopril 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+7132442e-b0b9-a886-e28d-f83700e5a3bd,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,amlodipine 2.5 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,lisinopril 10 mg oral tablet,9,High,Same medication appears multiple times for the same patient.
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,simvastatin 10 mg oral tablet,9,High,Same medication appears multiple times for the same patient.
+716c6d0a-2a5d-0aaa-9ced-312ed6a943da,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+72b1ca95-c4f0-269d-28bf-ba36b25a9aa6,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+765bd034-e8d7-f102-eb1c-4b7792fc5684,acetaminophen 160 mg chewable tablet,2,Moderate,Same medication appears multiple times for the same patient.
+7af6b271-f16d-21e1-882a-7bff71005a7b,24 hr metformin hydrochloride 500 mg extended release oral tablet,19,High,Same medication appears multiple times for the same patient.
+7af6b271-f16d-21e1-882a-7bff71005a7b,lisinopril 10 mg oral tablet,19,High,Same medication appears multiple times for the same patient.
+7af6b271-f16d-21e1-882a-7bff71005a7b,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+7af6b271-f16d-21e1-882a-7bff71005a7b,tropicamide 5 mg/ml ophthalmic solution,12,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,albuterol 0.21 mg/ml inhalation solution,11,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,amlodipine 2.5 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,budesonide 0.25 mg/ml inhalation suspension,11,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,hydrochlorothiazide 25 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,lisinopril 10 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+82623afe-e51c-e02e-1dd7-15a4394d0e92,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+83093df7-a1e4-b827-72e6-c6d604fd7748,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+83093df7-a1e4-b827-72e6-c6d604fd7748,penicillin v potassium 250 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+83093df7-a1e4-b827-72e6-c6d604fd7748,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+8704c44c-8b97-e35a-3bac-7d5b24de06b3,buprenorphine 2 mg / naloxone 0.5 mg sublingual tablet,13,High,Same medication appears multiple times for the same patient.
+8704c44c-8b97-e35a-3bac-7d5b24de06b3,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+87f7ad7b-85f9-d26d-5a41-9933f4039331,hydrochlorothiazide 25 mg oral tablet,4,High,Same medication appears multiple times for the same patient.
+87f7ad7b-85f9-d26d-5a41-9933f4039331,lisinopril 10 mg oral tablet,5,High,Same medication appears multiple times for the same patient.
+87f7ad7b-85f9-d26d-5a41-9933f4039331,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+887e4b4e-a3e1-b573-4a16-38386d3e0b88,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+8b9df7af-24b3-66ee-afeb-2734ebcbd33c,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+8c5b83b2-737e-46cf-953b-414e07ed78e7,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,10 ml furosemide 10 mg/ml injection,26,High,Same medication appears multiple times for the same patient.
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,carvedilol 25 mg oral tablet,4,High,Same medication appears multiple times for the same patient.
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,furosemide 40 mg oral tablet,4,High,Same medication appears multiple times for the same patient.
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,lisinopril 20 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+8d91c36a-1f7e-3842-9f14-8d567ed9cdcd,losartan potassium 50 mg oral tablet,4,High,Same medication appears multiple times for the same patient.
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,alendronic acid 10 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,hydrochlorothiazide 25 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+8ece28c6-f931-b0e0-5c0e-72b8d8d3c86a,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+9389eec9-a5c3-a9e1-b675-93cd1f199532,72 hr fentanyl 0.025 mg/hr transdermal system,8,High,Same medication appears multiple times for the same patient.
+9389eec9-a5c3-a9e1-b675-93cd1f199532,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+9389eec9-a5c3-a9e1-b675-93cd1f199532,tramadol hydrochloride 50 mg oral tablet,9,High,Same medication appears multiple times for the same patient.
+96de62ae-1b00-58d8-77f9-cd25414e16be,acetaminophen 325 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler [flovent],22,High,Same medication appears multiple times for the same patient.
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,albuterol 0.83 mg/ml inhalation solution,22,High,Same medication appears multiple times for the same patient.
+9a3814bb-f5b0-05f3-928e-fe6640d5aa2a,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+9c26986a-d81d-62f0-ee7a-ab8bb6377434,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+9c26986a-d81d-62f0-ee7a-ab8bb6377434,levonorgestrel 0.000729 mg/hr intrauterine system [kyleena],2,Moderate,Same medication appears multiple times for the same patient.
+9c26986a-d81d-62f0-ee7a-ab8bb6377434,{24 (drospirenone 3 mg / ethinyl estradiol 0.02 mg oral tablet) / 4 (inert ingredients 1 mg oral tablet) } pack [yaz 28 day],3,High,Same medication appears multiple times for the same patient.
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,amlodipine 2.5 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,budesonide 0.25 mg/ml inhalation suspension,10,High,Same medication appears multiple times for the same patient.
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,hydrochlorothiazide 25 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,lisinopril 10 mg oral tablet,10,High,Same medication appears multiple times for the same patient.
+9c5b16dc-8a47-896c-4d74-f96f8c98891b,nda021457 200 actuat albuterol 0.09 mg/actuat metered dose inhaler [proair],10,High,Same medication appears multiple times for the same patient.
+a45aa142-d1e9-d944-f2c7-05015c90762d,simvastatin 10 mg oral tablet,5,High,Same medication appears multiple times for the same patient.
+ad48e669-959c-b6f8-8ddb-dda7a6d37473,amoxicillin 250 mg / clavulanate 125 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+adec1419-cf81-6640-abe6-cac7c0c1b9d4,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+b50c66af-4d1c-7987-03d7-e5b65fdf880f,ibuprofen 400 mg oral tablet [ibu],11,High,Same medication appears multiple times for the same patient.
+b50c66af-4d1c-7987-03d7-e5b65fdf880f,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+ba47a33b-ffb6-25b9-e8bf-e7eabeaee1be,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,1 ml epoetin alfa 4000 unt/ml injection [epogen],140,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,24 hr metformin hydrochloride 500 mg extended release oral tablet,175,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,acetaminophen 325 mg oral tablet [tylenol],175,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,digoxin 0.125 mg oral tablet,16,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,hydrochlorothiazide 25 mg oral tablet,175,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,insulin isophane  human 70 unt/ml / insulin  regular  human 30 unt/ml injectable suspension [humulin],175,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,lisinopril 10 mg oral tablet,175,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,simvastatin 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,sodium fluoride 0.0272 mg/mg oral gel,21,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,tropicamide 5 mg/ml ophthalmic solution,10,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,verapamil hydrochloride 80 mg oral tablet [calan],16,High,Same medication appears multiple times for the same patient.
+bca1691f-8839-1d66-ed01-471134d55738,warfarin sodium 5 mg oral tablet,16,High,Same medication appears multiple times for the same patient.
+c1453af6-5763-f853-7da2-a16adee55469,sodium fluoride 0.0272 mg/mg oral gel,5,High,Same medication appears multiple times for the same patient.
+c823813e-2588-4814-6eb4-824974791862,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+c823813e-2588-4814-6eb4-824974791862,{28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+c823813e-2588-4814-6eb4-824974791862,{28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day],4,High,Same medication appears multiple times for the same patient.
+ca443842-f546-d34c-a69b-b044cfe007d9,acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet],11,High,Same medication appears multiple times for the same patient.
+ca443842-f546-d34c-a69b-b044cfe007d9,ibuprofen 400 mg oral tablet [ibu],11,High,Same medication appears multiple times for the same patient.
+ca443842-f546-d34c-a69b-b044cfe007d9,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+ca443842-f546-d34c-a69b-b044cfe007d9,{28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+ca443842-f546-d34c-a69b-b044cfe007d9,{28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day],4,High,Same medication appears multiple times for the same patient.
+cbd1dd48-89c3-3fdb-434e-3f0802738abf,60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler,7,High,Same medication appears multiple times for the same patient.
+cbd1dd48-89c3-3fdb-434e-3f0802738abf,acetaminophen 325 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+cbd1dd48-89c3-3fdb-434e-3f0802738abf,albuterol 5 mg/ml inhalation solution,7,High,Same medication appears multiple times for the same patient.
+cc3eac4a-34a7-9a15-1522-8087135631b7,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+ccaa0537-4e7f-99d8-8b79-c7c94c749579,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+d21f2794-014b-c66b-3688-888382ab7434,acetaminophen 325 mg oral tablet [tylenol],13,High,Same medication appears multiple times for the same patient.
+d21f2794-014b-c66b-3688-888382ab7434,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+d21fc5fa-6dc5-8058-1d11-5fd631086b72,ibuprofen 400 mg oral tablet [ibu],3,High,Same medication appears multiple times for the same patient.
+d21fc5fa-6dc5-8058-1d11-5fd631086b72,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+d309f605-948b-962f-ca72-878ce8b8d154,hydrochlorothiazide 25 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+d309f605-948b-962f-ca72-878ce8b8d154,lisinopril 10 mg oral tablet,13,High,Same medication appears multiple times for the same patient.
+d309f605-948b-962f-ca72-878ce8b8d154,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+dc77ef0d-1846-94fd-cce5-a7a555009d17,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+e142981b-3577-4115-584d-d9676df7fcff,naproxen sodium 220 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+e142981b-3577-4115-584d-d9676df7fcff,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+e170fdcd-8830-89c4-94b2-aaf7f35ca9c5,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+e170fdcd-8830-89c4-94b2-aaf7f35ca9c5,{28 (norethindrone 0.35 mg oral tablet) } pack [errin 28 day],3,High,Same medication appears multiple times for the same patient.
+e170fdcd-8830-89c4-94b2-aaf7f35ca9c5,{28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day],3,High,Same medication appears multiple times for the same patient.
+e34a6a5e-1d77-508d-8be3-8816e9df8046,sodium fluoride 0.0272 mg/mg oral gel,3,High,Same medication appears multiple times for the same patient.
+e34a6a5e-1d77-508d-8be3-8816e9df8046,{7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique],2,Moderate,Same medication appears multiple times for the same patient.
+e503e9b3-d149-653b-92df-ca4a8cb68e16,{5 (dienogest 2 mg / estradiol valerate 2 mg oral tablet) / 17 (dienogest 3 mg / estradiol valerate 2 mg oral tablet) / 2 (estradiol valerate 1 mg oral tablet) / 2 (estradiol valerate 3 mg oral tablet) / 2 (inert ingredients 1 mg oral tablet) } pack [natazia 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+e503e9b3-d149-653b-92df-ca4a8cb68e16,{7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique],2,Moderate,Same medication appears multiple times for the same patient.
+e7c068bb-6d29-27d3-0b8b-ec0406cc91b7,acetaminophen 325 mg oral tablet [tylenol],11,High,Same medication appears multiple times for the same patient.
+e7c068bb-6d29-27d3-0b8b-ec0406cc91b7,amoxicillin 250 mg / clavulanate 125 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+edb5a2e3-a981-d33c-5eac-1ca8adde82d3,albuterol 0.83 mg/ml inhalation solution,13,High,Same medication appears multiple times for the same patient.
+edb5a2e3-a981-d33c-5eac-1ca8adde82d3,budesonide 0.25 mg/ml inhalation suspension,13,High,Same medication appears multiple times for the same patient.
+edb5a2e3-a981-d33c-5eac-1ca8adde82d3,sodium fluoride 0.0272 mg/mg oral gel,6,High,Same medication appears multiple times for the same patient.
+f30304ab-8e45-1cbd-9833-cadf568373b4,acetaminophen 160 mg chewable tablet,2,Moderate,Same medication appears multiple times for the same patient.
+f30304ab-8e45-1cbd-9833-cadf568373b4,amoxicillin 500 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+f30304ab-8e45-1cbd-9833-cadf568373b4,ibuprofen 100 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+f30304ab-8e45-1cbd-9833-cadf568373b4,penicillin v potassium 250 mg oral tablet,4,High,Same medication appears multiple times for the same patient.
+f30304ab-8e45-1cbd-9833-cadf568373b4,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+f5749532-3295-ad01-d9b5-932c997e7a01,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+f5749532-3295-ad01-d9b5-932c997e7a01,{28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day],2,Moderate,Same medication appears multiple times for the same patient.
+f6359fe4-4340-2820-8b76-593a45f5186c,12 hr hydrocodone bitartrate 10 mg extended release oral capsule,2,Moderate,Same medication appears multiple times for the same patient.
+f6359fe4-4340-2820-8b76-593a45f5186c,72 hr fentanyl 0.025 mg/hr transdermal system,2,Moderate,Same medication appears multiple times for the same patient.
+f6359fe4-4340-2820-8b76-593a45f5186c,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+f6359fe4-4340-2820-8b76-593a45f5186c,tramadol hydrochloride 50 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+f6359fe4-4340-2820-8b76-593a45f5186c,{7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique],2,Moderate,Same medication appears multiple times for the same patient.
+f6745f8a-8107-443e-8946-3e6329d20408,simvastatin 10 mg oral tablet,11,High,Same medication appears multiple times for the same patient.
+f870c432-0887-125e-f778-cf5110d3de1d,amoxicillin 250 mg / clavulanate 125 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+f870c432-0887-125e-f778-cf5110d3de1d,simvastatin 10 mg oral tablet,6,High,Same medication appears multiple times for the same patient.
+f870c432-0887-125e-f778-cf5110d3de1d,sodium fluoride 0.0272 mg/mg oral gel,2,Moderate,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,10 ml furosemide 10 mg/ml injection,36,High,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,carvedilol 25 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,furosemide 40 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,lisinopril 20 mg oral tablet,2,Moderate,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,losartan potassium 50 mg oral tablet,3,High,Same medication appears multiple times for the same patient.
+fb56f051-a2cd-ac10-dcb0-e0738295fc1f,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
+fd0d7b3a-307d-07b8-9d7e-2424e1feb9e4,sodium fluoride 0.0272 mg/mg oral gel,4,High,Same medication appears multiple times for the same patient.
